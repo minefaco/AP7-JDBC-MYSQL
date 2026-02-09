@@ -2,7 +2,7 @@
 
 ---
 
-## 🍴 Paso 0: Fork y clonación del repositorio (flujo de trabajo del estudiante)
+## 🍴 Paso 0: Fork y clonación del repositorio (flujo de trabajo del Aprendiz)
 
 Antes de comenzar a programar, es importante seguir el flujo correcto de trabajo con **GitHub**, tal como se usa en entornos académicos y profesionales.
 
@@ -10,25 +10,24 @@ Antes de comenzar a programar, es importante seguir el flujo correcto de trabajo
 
 ## 🔁 ¿Qué es un Fork?
 
-Un **fork** es una copia del repositorio del profesor que se guarda en tu propia cuenta de GitHub.  
+Un **fork** es una copia del repositorio del instructor que se guarda en tu propia cuenta de GitHub.  
 Esto te permite trabajar libremente sin modificar el repositorio original.
 
-📌 **Repositorio del profesor:**  
+📌 **Repositorio del instructor:**  
 👉 (https://github.com/astudillodanilo/AP7-JDBC-MYSQL.git)
 
 ---
 
-## 🧭 Paso 1: Hacer Fork del repositorio del profesor
+## 🧭 Paso 1: Hacer Fork del repositorio del instructor
 
-1. Ingresa al repositorio del profesor en GitHub
+1. Ingresa al repositorio del instructor en GitHub
 2. En la esquina superior derecha, haz clic en el botón **Fork**
 3. Selecciona tu cuenta de GitHub
 4. GitHub creará una copia del repositorio en tu perfil
 
 📷 *Ver Video:*
 
-<a href="{https://youtu.be/t1Ym6BzTH_M?si=MB3LTS-ZD8Sad0j0}" title="GitHub y Git: Crear Fork - Tutorial Completo y Fácil
-"><img src="{https://img.icons8.com/liquid-glass/48/youtube-play.png}" alt="Crear Fork" /></a>
+- [Youtube](https://youtu.be/t1Ym6BzTH_M?si=iihOcLZMurOPMkNM)
 ---
 
 ## 💻 Paso 2: Clonar el repositorio en tu computador

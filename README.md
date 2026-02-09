@@ -27,7 +27,8 @@ Esto te permite trabajar libremente sin modificar el repositorio original.
 
 📷 *Ver Video:*
 
-![GitHub y Git: Crear Fork - Tutorial Completo y Fácil]("https://www.youtube.com/embed/t1Ym6BzTH_M?si=Tz4ipFT5P5VQORJ3") 
+<a href="{https://youtu.be/t1Ym6BzTH_M?si=MB3LTS-ZD8Sad0j0}" title="GitHub y Git: Crear Fork - Tutorial Completo y Fácil
+"><img src="{https://img.icons8.com/liquid-glass/48/youtube-play.png}" alt="Crear Fork" /></a>
 ---
 
 ## 💻 Paso 2: Clonar el repositorio en tu computador
